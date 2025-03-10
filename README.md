@@ -25,8 +25,6 @@ ex: `url = "https://www.youtube.com/watch?v=ZSXN_dpG5jk"`
 
 7. Run YouTubeAudioDownloader.py
 
-![YouTubeAudioDownloader.py Output](https://i.postimg.cc/htwd362f/Output.png)
-
 You will find file of .webm format downloaded in the same folder.
 
 ## How To convert .webm to .mp3 format?
